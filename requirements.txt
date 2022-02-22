@@ -1,0 +1,6 @@
+torch
+numpy
+jupyterlab
+matplotlib
+sklearn
+random
